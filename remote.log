@@ -1,0 +1,1 @@
+ee664254-cdef-4925-8efd-86ff73b723be autoenable=true bucket=afm chunk=1GiB datacenter=US encryption=none host=192.168.68.119 name=s3.afm port=9000 public=yes requeststyle=path storageclass=STANDARD type=S3 timestamp=1628783022.501646s
